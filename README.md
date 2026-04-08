@@ -21,4 +21,4 @@ Language: C++
 Concepts Used: Object-Oriented Programming (Inheritance, Polymorphism), File Handling (I/O Streams), and the Standard Template Library (Vectors).
 
 Tools: Standard standard libraries (<iostream>, <fstream>, <vector>, <iomanip>). No external dependencies required
-##Output Png : https://github.com/Abaubakar0/Payroll-Management-System/blob/main/image_2026-04-08_183501925.png
+## Output Png : https://github.com/Abaubakar0/Payroll-Management-System/blob/main/image_2026-04-08_183501925.png
