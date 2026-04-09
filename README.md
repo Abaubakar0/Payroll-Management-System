@@ -4,7 +4,7 @@ The Payroll Management System is a Command-Line Interface (CLI) application buil
 
 The system features persistent data storage, meaning all employee records are automatically saved to text files and loaded the next time the program runs. It also includes robust input validation to ensure data integrity.
 
-##Key Features
+## Key Features
 Manage Different Employee Types: Add and distinguish between Full-Time (base salary + allowance) and Part-Time (hourly rate × hours worked) employees.
 
 Automatic Calculations: Dynamically calculates total salary, annual tax deductions (10% for full-time), and annual allowances.
